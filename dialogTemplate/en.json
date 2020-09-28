@@ -1,0 +1,7 @@
+{
+    "skill": "Google_Calendar",
+    "icon": "time",
+    "description": "Google calendar read and set reminder",
+    "slotTypes": [],
+    "intents": []
+}

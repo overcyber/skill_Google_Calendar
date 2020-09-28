@@ -1,0 +1,23 @@
+{
+    "name": "Google_Calendar",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "overcyber",
+    "maintainers": [],
+    "desc": "Google calendar read and set reminder",
+    "aliceMinVersion": "1.0.0-b3",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        "google-api-python-client"
+    ],
+    "conditions": {
+        "lang": [
+            "en"
+        ],
+        "online": true,
+        "asrArbitraryCapture": true
+    }
+}
